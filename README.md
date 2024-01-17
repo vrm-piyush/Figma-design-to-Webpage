@@ -10,7 +10,7 @@ This project serves as a Figma-to-Web conversion, translating a meticulously cra
 
 ## Design Source
 
-The original design was created using Figma. To explore the design and get a visual representation, visit the Figma project: [ShoeBrand Figma Design](https://www.figma.com/file/V0zrsn0cSxrRQ2gPt7hWOR/Couply?type=design&node-id=0-1&mode=design&t=uZ1HbbRj7fAOnljS-0).
+The original design was created using Figma. To explore the design and get a visual representation, visit the Figma project: [ShoeBrand Figma Design](https://www.figma.com/file/ReJbOWDc0WR1uizrsgfyfQ/project?type=design&node-id=0%3A1&mode=design&t=UgdQIS5sqD0BDENS-1).
 
 ## Features
 
@@ -29,7 +29,7 @@ The original design was created using Figma. To explore the design and get a vis
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/ShoeBrand.git`
+1. Clone the repository: `git clone https://github.com/vrm-piyush/Figma-design-to-Webpage.git`
 2. Open the `index.html` file in your preferred web browser to view the website locally.
 3. Explore the codebase and make any desired modifications or improvements.
 
@@ -50,9 +50,5 @@ If you'd like to contribute to the development of ShoeBrand, follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
-
-## Credits
-
-- Website design created using Figma. [View Figma Design](https://www.figma.com/file/V0zrsn0cSxrRQ2gPt7hWOR/Couply?type=design&node-id=0-1&mode=design&t=uZ1HbbRj7fAOnljS-0)
 
 Feel free to explore, contribute, and enhance the ShoeBrand website! If you have any questions or suggestions, don't hesitate to reach out. Happy coding! 🚀
